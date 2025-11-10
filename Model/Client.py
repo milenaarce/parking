@@ -7,5 +7,5 @@ class Client():
         self.estSuperAbonne = estSuperAbonne
         self.nbFrequentations = nbFrequentations
         
-    
-        
+    def sAbonner(self):
+        print()
